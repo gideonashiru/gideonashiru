@@ -1,4 +1,4 @@
-# Hey, I'm Gideon 👋
+# Hey, I'm Gideon 
 
 3rd-year CS student at the University of Manitoba, building full-stack web apps and currently getting into computer vision. I care about writing clean, maintainable code and shipping things that actually work. Available immediately for internships and freelance projects.
 
