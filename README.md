@@ -36,12 +36,17 @@
 ## 📌 Projects
 
 ### [RSVP Hub](https://rsvphub.vercel.app) — Event Management Platform
-Built a full-stack event platform with real-time RSVP tracking, secure auth, and a CI/CD pipeline on Vercel. Can handle 100+ concurrent users with optimized PostgreSQL queries via Supabase.
+Built a shareable RSVP link system allowing event hosts to invite attendees via url link, Designed a PostgreSQL schema from scratch using Supabase.  Integrated Supabase Auth to handle user authentication and protect event management routes.
 `Next.js` `React` `TypeScript` `Tailwind` `PostgreSQL` `Supabase`
 
 ### [Examit](https://examit.vercel.app) — Android Study App (Course Work)
-Native Android app with 1,000+ study questions stored in a local HSQLDB database. Built with a 5-person team over 6 Agile sprints, hit 85% test coverage with JUnit, Espresso & Mockito..
+Native Android app with local HSQLDB schema to store and retrieve study data. Built quiz and multiple choice question functionality, handling both the UI layer and its data logic,Wrote unit and integration tests using JUnit, Espresso, and Mockito..
 `Java` `Android Studio` `HSQLDB` `JUnit` `Agile`
+
+### [Umoja Help Center](https://www.umojahelpcenter.com/) — Non Profit Website
+Multi-page nonprofit website from scratch, implementing custom GSAP animations and a fully mobile-responsive UI.Integrated Sanity CMS with a custom content schema. Implemented production-ready SEO including sitemap, robots.txt, Open Graph metadata.
+`Next.js` `React` `TypeScript` `Tailwind` `Sanity` `Upstash`
+
 
 ---
 
