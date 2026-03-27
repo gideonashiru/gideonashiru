@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gideonashiru.dev-black?style=flat-square&logo=vercel)](https://www.gideonashiru.dev/)
 [![Email](https://img.shields.io/badge/Email-gideonashiru@gmail.com-black?style=flat-square&logo=gmail)](mailto:gideonashiru@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/gideonashiru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gideon-ashiru-501b73327)
 
 ---
 
