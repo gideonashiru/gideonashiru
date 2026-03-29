@@ -27,8 +27,8 @@
 
 ## 🔭 What I'm up to
 
-- Exploring **computer vision** with Python
-- Building production-ready apps with **Next.js Mostly**
+- Exploring **opencv and other cv framerworks** 
+- Building production-ready apps with **Next.js mostly**
 - Open to **internships** and **freelance** work in Winnipeg or remote
 
 ---
