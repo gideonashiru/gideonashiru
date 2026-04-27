@@ -1,6 +1,6 @@
 # Hey, I'm Gideon 
 
-3rd-year CS student at the University of Manitoba, building full-stack web apps and currently getting into computer vision. I care about writing clean, maintainable code and shipping things that actually work. Available immediately for internships and freelance projects.
+CS student building full-stack web apps and currently getting into computer vision. I care about writing clean, maintainable code and shipping things that actually work. Available immediately for internships and freelance projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gideonashiru.dev-black?style=flat-square&logo=vercel)](https://www.gideonashiru.dev/)
 [![Email](https://img.shields.io/badge/Email-gideonashiru@gmail.com-black?style=flat-square&logo=gmail)](mailto:gideonashiru@gmail.com)
@@ -27,8 +27,8 @@
 
 ## 🔭 What I'm up to
 
-- Building production-ready apps with **Next.js mostly**
-- Open to **internships** and **freelance** work in Winnipeg or remote
+- Building prod-ready apps with **Next.js mostly**
+- Open to **internships** and **freelance** work in Canada or remote
 
 ---
 
