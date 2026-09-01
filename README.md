@@ -2,7 +2,6 @@
 
 CS student building full-stack web apps and currently getting into computer vision. I care about writing clean, maintainable code and shipping things that actually work. Available immediately for internships and freelance projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gideons-port-black?style=flat-square&logo=vercel)](https://www.gideonashiru.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-gideonashiru@gmail.com-black?style=flat-square&logo=gmail)](mailto:gideonashiru@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gideon-ashiru-501b73327)
 
