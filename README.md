@@ -31,9 +31,6 @@ CS student building full-stack web apps and currently getting into computer visi
 
 ##  Projects
 
-### [RSVP Hub](https://rsvphub.vercel.app) — Event Management Platform
-Built a shareable RSVP link system allowing event hosts to invite attendees via url link, Designed a PostgreSQL schema from scratch using Supabase.  Integrated Supabase Auth to handle user authentication and protect event management routes.
-`Next.js` `React` `TypeScript` `Tailwind` `PostgreSQL` `Supabase`
 
 ### [Examit](https://examit.vercel.app) — Android Study App (Course Work)
 Native Android app with local HSQLDB schema to store and retrieve study data. Built quiz and multiple choice question functionality, handling both the UI layer and its data logic,Wrote unit and integration tests using JUnit, Espresso, and Mockito..
